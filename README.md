@@ -13,9 +13,6 @@ Check it out here: [Live Website](https://shamim-01.github.io/comment-system/)
 - Mobile responsive UI
 - Easy to customize
 
-## 🖥️ Screenshot
-
-![Comment System Screenshot](screenshot.png)  <!-- repo তে screenshot.png রাখতে হবে -->
 
 ## 🛠️ Technologies
 
